@@ -4,7 +4,7 @@ public class Employee implements Comparable {
 int id ;
 String name ;
 int rating ;
-int salary ;
+int salary1 ;
 public int getId() {
 	return id;
 }
